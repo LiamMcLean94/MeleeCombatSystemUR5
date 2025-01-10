@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/MeleeCombatSystemUR5/MeleeCombatSystem/Content/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Hero.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/MeleeCombatSystemUR5/MeleeCombatSystem/Content/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Hero_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
